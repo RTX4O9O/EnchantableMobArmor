@@ -3,8 +3,8 @@ EnchantableMobArmor is a spigot plugin developed in 1.21.11. With this plugin, e
 
 ## Gallery
 1. Enchanting horse armor
-   ![](https://github.com/RTX4O9O/EnchantableMobArmor/blob/master/img/gallery/enchanting.png?raw=true)
+   ![](https://github.com/RTX4O9O/EnchantableMobArmor/blob/master/img/gallery/enchanting.png?raw=true) <br>
 2. Enchanting & hover over wolf armor
-   ![](https://github.com/RTX4O9O/EnchantableMobArmor/blob/master/img/gallery/enchanting%20hover.png?raw=true)
+   ![](https://github.com/RTX4O9O/EnchantableMobArmor/blob/master/img/gallery/enchanting%20hover.png?raw=true) <br>
 3. Rename an enchanted nautilus armor
-   ![](https://github.com/RTX4O9O/EnchantableMobArmor/blob/master/img/gallery/rename%20enchanted.png?raw=true)
+   ![](https://github.com/RTX4O9O/EnchantableMobArmor/blob/master/img/gallery/rename%20enchanted.png?raw=true) <br>
