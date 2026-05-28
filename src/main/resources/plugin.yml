@@ -1,0 +1,6 @@
+name: EnchantableMobArmor
+version: '1.0.0-SNAPSHOT'
+main: me.rtx4090.enchantableMobArmor.EnchantableMobArmor
+api-version: '1.21'
+authors: [ RTX4090 ]
+description: Make horse, wolf, and nautilus armor compatible with vanilla armor enchantments. Anvils only!
